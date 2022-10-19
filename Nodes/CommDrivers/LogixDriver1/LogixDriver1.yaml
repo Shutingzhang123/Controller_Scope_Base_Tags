@@ -1,0 +1,4 @@
+Name: LogixDriver1
+Type: LogixDriver
+Children:
+- File: LogixStation1/LogixStation1.yaml

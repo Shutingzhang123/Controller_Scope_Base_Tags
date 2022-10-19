@@ -1,0 +1,23 @@
+Name: TagImporter
+Type: LogixTagImporter
+OwnerId: ns=2;g=76948aa819035dc5ccbe6d261afae016
+Children:
+- Name: FilePath
+  Type: BaseDataVariableType
+  DataType: AbsoluteResourceUri
+  Value: "ns=82;%PROJECTDIR%/V34L73S_S00.ACD"
+- Name: Mode
+  Type: BaseDataVariableType
+  DataType: ns=6;FetchModes
+  Value: 0
+- Name: IgnoredPLCItems
+  Type: BaseDataVariableType
+  DataType: BaseDataType
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+- Name: IgnoredHMIItems
+  Type: BaseDataVariableType
+  DataType: NodeId
+  ValueRank: OneDimension
+  ArrayDimensions: [0]
+  Value: []
