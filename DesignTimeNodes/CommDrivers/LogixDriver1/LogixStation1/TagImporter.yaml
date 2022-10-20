@@ -8,7 +8,7 @@ Children:
   Value: "ns=82;%PROJECTDIR%/V34L73S_S00.ACD"
 - Name: Mode
   Type: BaseDataVariableType
-  DataType: ns=6;FetchModes
+  DataType: FetchModes
   Value: 0
 - Name: IgnoredPLCItems
   Type: BaseDataVariableType

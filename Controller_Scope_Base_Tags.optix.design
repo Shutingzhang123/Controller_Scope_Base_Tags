@@ -23,10 +23,5 @@ Project:
    Uri: 'urn:FTOptix:LogixTagImporter'
    Module: FTOptix.LogixTagImporter
    Version: 1.0
-  7:
-   Uri: 'urn:FTOptix:EthernetIPTagImporter'
-   Module: FTOptix.EthernetIPTagImporter
-   Version: 1.0
  Nodes:
- - File: DesignTimeNodes/CommDrivers/EthernetIPDriver1/EthernetIPStation1/TagImporter.yaml
  - File: DesignTimeNodes/CommDrivers/LogixDriver1/LogixStation1/TagImporter.yaml

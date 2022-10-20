@@ -36,9 +36,5 @@ Project:
    Uri: 'urn:FTOptix:Logix'
    Module: FTOptix.Logix
    Version: 1.0
-  10:
-   Uri: 'urn:FTOptix:EthernetIP'
-   Module: FTOptix.EthernetIP
-   Version: 1.0
  Nodes:
  - File: Nodes/Controller_Scope_Base_Tags.yaml

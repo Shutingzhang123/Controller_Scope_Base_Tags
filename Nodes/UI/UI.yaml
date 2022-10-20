@@ -126,7 +126,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=7bd20f51-3d37-f94c-6749-42ada4367ff4}"
+        Value: "{NodeId:ns=7;g=bef00174-06fe-d71a-a31f-bc67400ae9b7}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -158,7 +158,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=1e5633fc-fad7-e8fa-aa3c-115062e0f2d4}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_BOOL"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -229,7 +229,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=0e4bc6cb-06f7-a9aa-9702-7710e3567181}"
+        Value: "{NodeId:ns=7;g=a355c648-d658-6e59-a2d9-3f4d16213cc0}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -261,7 +261,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=e3233a50-8750-5734-3684-786173b7a9de}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_DINT"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -332,7 +332,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=b95f2012-54c5-e10a-7106-d634e98c4b8a}"
+        Value: "{NodeId:ns=7;g=d3955133-b661-b2d9-8fc7-b89df4b2c179}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -364,7 +364,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=b95f2012-54c5-e10a-7106-d634e98c4b8a}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_SINT"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -435,7 +435,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=3a83abed-1899-14e0-78a9-e4cb1c0b0b61}"
+        Value: "{NodeId:ns=7;g=52565133-e538-35e8-ba15-e1f21608122e}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -467,7 +467,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=3a83abed-1899-14e0-78a9-e4cb1c0b0b61}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_LINT"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -538,7 +538,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=c6da84f6-73fd-d781-0123-9cbe4fbfb383}"
+        Value: "{NodeId:ns=7;g=69e64365-e4b7-5b5d-f666-1cf8ad5e9d27}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -570,7 +570,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=c6da84f6-73fd-d781-0123-9cbe4fbfb383}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_STRING"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -641,7 +641,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=c09f0e79-6dca-11cb-ac7a-0f42d28fd9e7}"
+        Value: "{NodeId:ns=7;g=6a038227-19eb-ca5e-1803-5beea46c2616}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -673,7 +673,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=c09f0e79-6dca-11cb-ac7a-0f42d28fd9e7}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_REAL"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -744,7 +744,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=2ceaa32a-7126-78d9-9d6c-57a8cd88ec0c}"
+        Value: "{NodeId:ns=7;g=10333c51-dbb4-6bd3-f925-6c3be5c2a8d1}"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -810,7 +810,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=e08b407e-cffd-04a7-779f-d028897c8a1d}"
+        Value: "{NodeId:ns=7;g=7bc8f327-c6a5-90a2-deda-663971e835c6}"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -898,7 +898,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=98163f44-1de0-21df-d08c-570be6644b46}"
+        Value: "{NodeId:ns=7;g=5da502b0-caa8-85fe-16f9-ed62039f9fa4}"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -986,7 +986,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=deb6f942-88d3-f959-e1a7-bdb7fdad277f}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_TIMER/EN"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -1018,7 +1018,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=bc52bc92-eeb5-69f8-7497-005ff490b99a}"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_TIMER/TT"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -1134,7 +1134,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=afa3d646-1bbe-cd1f-a74a-904383997f3a}[0,0]"
+        Value: "{NodeId:ns=7;g=115d73bf-05de-86e0-ad5b-a263421e945d}[0,0]"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -1166,7 +1166,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=afa3d646-1bbe-cd1f-a74a-904383997f3a}[1,1]"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_STRINGARRAY[1,1]"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -1198,7 +1198,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=7c87d2d6-b01b-66cf-4f93-4a0ac356102f}[0]"
+        Value: "{NodeId:ns=7;g=8d8e2e49-e5e7-1979-6ede-6b0fe8ec7cce}[0]"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -1230,7 +1230,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=afa3d646-1bbe-cd1f-a74a-904383997f3a}[0,0]"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_STRINGARRAY[0,0]"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1268,7 +1268,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=afa3d646-1bbe-cd1f-a74a-904383997f3a}[1,1]"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_STRINGARRAY[1,1]"
         Children:
         - Name: Mode
           Type: BaseVariableType
@@ -1306,7 +1306,7 @@ Children:
       - Name: DynamicLink
         Type: DataBind
         DataType: NodePath
-        Value: "{NodeId:ns=7;g=7c87d2d6-b01b-66cf-4f93-4a0ac356102f}[1]"
+        Value: "/Objects/Controller_Scope_Base_Tags/CommDrivers/LogixDriver1/LogixStation1/Tags/Controller Tags/Controller_Bool_Array[1]"
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size

@@ -2,4 +2,3 @@ Name: CommDrivers
 Type: FolderType
 Children:
 - File: LogixDriver1/LogixDriver1.yaml
-- File: EthernetIPDriver1/EthernetIPDriver1.yaml
